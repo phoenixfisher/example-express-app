@@ -14,11 +14,21 @@ A minimal Node.js + Express app that fetches key/value JSON (a random quote) fro
 - npm
 
 ## Setup
+Clone the repo and navigate into it using:
+
+```bash
+git clone git@github.com:phoenixfisher/example-express-app.git
+cd example-express-app
+```
+
+Install node_modules using:
+
 ```bash
 npm install
 ```
 
 ## Run
+Start the server locally using: 
 ```bash
 npm start
 ```
