@@ -23,21 +23,3 @@ npm install
 npm start
 ```
 Then open http://localhost:3000
-
-For live reload during development:
-```bash
-npm run dev
-```
-
-## Project Structure
-```
-.
-├── index.js
-├── package.json
-├── .gitignore
-├── public
-│   └── style.css
-└── views
-    ├── index.ejs
-    └── error.ejs
-```
