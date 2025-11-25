@@ -4,12 +4,13 @@ A minimal Node.js + Express app that fetches key/value JSON (a random quote) fro
 
 ## Features
 - Express server with EJS views
-- Node native `fetch` (no Axios)
+- Node native `fetch`
 - Shows `content` and `author` from the API response
-- Simple styling, ready for GitHub
+- Simple styling
+- GitHub architecture
 
 ## Requirements
-- Node 18+ (for built-in `fetch`)
+- Node 18+
 - npm
 
 ## Setup
